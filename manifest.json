@@ -1,0 +1,20 @@
+{
+    "name": "John Osmond Draw & Chat PWA",
+    "short_name": "John Osmond Draw Chat",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB",
+    "icons": [
+        {
+            "src": "JohnOsmondCapstone.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
