@@ -1,7 +1,7 @@
 # John Osmond Draw Chat PWA
 
 ## Overview
-"John Osmon Draw Chat" is a Progressive Web Application (PWA) that combines a drawing tool with a chat feature, designed to function seamlessly online and offline. Users can create drawings, download their artwork, send and receive messages, and interact with the app even when offline. The application ensures that messages created while offline are queued and sent when connectivity is restored.
+"John Osmond Draw Chat" is a Progressive Web Application (PWA) that combines a drawing tool with a chat feature, designed to function seamlessly online and offline. Users can create drawings, download their artwork, send and receive messages, and interact with the app even when offline. The application ensures that messages created while offline are queued and sent when connectivity is restored.
 
 ## Features
 - **Drawing Canvas**: Users can draw using a customizable color picker and adjustable brush size.
